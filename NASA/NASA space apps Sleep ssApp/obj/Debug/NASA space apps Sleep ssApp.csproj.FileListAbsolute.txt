@@ -1,0 +1,10 @@
+C:\Users\rotje\Desktop\NASA space apps\NASA\NASA space apps Sleep ssApp\bin\Debug\NASA space apps Sleep ssApp.exe.config
+C:\Users\rotje\Desktop\NASA space apps\NASA\NASA space apps Sleep ssApp\bin\Debug\NASA space apps Sleep ssApp.exe
+C:\Users\rotje\Desktop\NASA space apps\NASA\NASA space apps Sleep ssApp\bin\Debug\NASA space apps Sleep ssApp.pdb
+C:\Users\rotje\Desktop\NASA space apps\NASA\NASA space apps Sleep ssApp\obj\Debug\NASA space apps Sleep ssApp.csprojAssemblyReference.cache
+C:\Users\rotje\Desktop\NASA space apps\NASA\NASA space apps Sleep ssApp\obj\Debug\NASA_space_apps_Sleep_ssApp.Properties.Resources.resources
+C:\Users\rotje\Desktop\NASA space apps\NASA\NASA space apps Sleep ssApp\obj\Debug\NASA space apps Sleep ssApp.csproj.GenerateResource.cache
+C:\Users\rotje\Desktop\NASA space apps\NASA\NASA space apps Sleep ssApp\obj\Debug\NASA space apps Sleep ssApp.csproj.CoreCompileInputs.cache
+C:\Users\rotje\Desktop\NASA space apps\NASA\NASA space apps Sleep ssApp\obj\Debug\NASA space apps Sleep ssApp.exe
+C:\Users\rotje\Desktop\NASA space apps\NASA\NASA space apps Sleep ssApp\obj\Debug\NASA space apps Sleep ssApp.pdb
+C:\Users\rotje\Desktop\NASA space apps\NASA\NASA space apps Sleep ssApp\obj\Debug\NASA_space_apps_Sleep_ssApp.Form1.resources
